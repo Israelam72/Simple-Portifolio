@@ -106,6 +106,7 @@
         text-transform: capitalize;
         color: #141414;
         padding: 0;
+        word-break: normal;
     }
 
     .exp-texto {

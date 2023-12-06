@@ -182,6 +182,7 @@
         text-transform: capitalize;
         color: #ffffff;
         padding: 0;
+        word-break: normal;
     }
 
     .formacao-texto {
