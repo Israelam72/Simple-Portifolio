@@ -8,7 +8,7 @@
     max-width: 75rem;
     min-width: 200px;
     margin: 0 auto;
-    padding: 2.5rem 1.25rem;
+    padding: 4.5rem 1.25rem;
     grid-template-columns: 1fr 2fr;
     gap: 6.25rem;
     position: relative;
