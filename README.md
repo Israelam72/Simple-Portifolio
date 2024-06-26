@@ -1,6 +1,5 @@
-# Israelam72.github.io
+# Portifolio
 
-Origamid
 Simple resume
 
 Made with only CSS and HTML
