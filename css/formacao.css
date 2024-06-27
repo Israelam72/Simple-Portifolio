@@ -212,15 +212,36 @@
     }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 650px) {
+    .formacao-container {
+        grid-template-columns: 1fr;
+        gap: 40px;
+        padding: 2.5rem 1.25rem;
+    }
+
     .formacao-itens {
         flex-wrap: nowrap;
         flex-direction: column;
-    }
-}
-
-@media (max-width: 400px) {
-    .formacao {
         grid-template-columns: 1fr;
     }
 }
+
+@media (max-width: 500px) {
+    .formacao {
+        grid-template-columns: 1fr;
+    }
+
+    .formacao-container {
+        grid-template-columns: 0.8fr;
+        gap: 20px;
+        padding: 1.5rem .5rem;
+    }
+
+    .formacao-itens {
+        flex-wrap: nowrap;
+        flex-direction: column;
+        grid-template-columns: 1fr;
+    }
+}
+
+
