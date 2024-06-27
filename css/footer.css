@@ -1,5 +1,5 @@
 .footer {
-    background: #000000;
+    background: #201e1a;
 }
 
 .footer-container {
@@ -8,7 +8,7 @@
     margin: 0 auto;
     padding: 7.5rem 1.25rem 3.75rem 1.25rem;
     grid-template-columns: 2fr 1fr;
-    color: #ffffff;
+    color: #b8b8a1;
     gap: 4rem;
 }
 
@@ -18,7 +18,7 @@
  }
 
 .footer-descricao {
-    color: #b7b7b7;
+    color: #eeeed3;
     font-size: 1.5rem;
     align-self: center;
     max-width: 40ch;
@@ -36,7 +36,7 @@
 }
 
 .footer .direitos {
-    color: #a3a3a3;
+    color: #eeeed3;
     font-size: 1.15rem;
 }
 

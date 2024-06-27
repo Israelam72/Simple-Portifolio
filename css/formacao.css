@@ -1,6 +1,6 @@
 .formacao {
-    background: #141414;
-    color: #ffffff;
+    background: #615745;
+    color: #201e1a;
 }
 
 .formacao-container {
@@ -15,7 +15,8 @@
 }
 
 .formacao-container .bold {
-    color: white;
+    color: #3b3324;
+;
 }
 
 .formacao-container::after {
@@ -35,7 +36,7 @@
     max-width: 5ch;
     text-transform: uppercase;
     word-break: break-all;
-    color: #000000;
+    color: #201e1a;
     line-height: 1;
 }
 
@@ -45,11 +46,11 @@
     margin-bottom: 3.5rem;
     margin-right: 9rem;
     line-height: 2rem;
-    color: #a3a3a3;
+    color: #b8b8a1;
 }
 
 .formacao-texto strong {
-    color: #ffffff;
+    color: #201e1a;
 }
 
 
@@ -63,7 +64,7 @@
 
 .formacao-itens li {
     flex: 1;
-    background: #000000;
+    background: #eeeed3;
     padding: 1.25rem;
     font-size: 1.15rem;
     display: flex;
@@ -78,7 +79,7 @@
     display: block;
     width: 0.25rem;
     height: 1.3rem;
-    background: repeating-linear-gradient(#b6f829, #67dd0a);
+    background: repeating-linear-gradient(#b8b8a1, #201e1a);
     left: -0.25rem;
     top: 3.2rem;
 }
@@ -87,11 +88,11 @@
     margin-bottom: 0.7rem;
     font-size: 0.9rem;
     font-weight: normal;
-    color: #a3a3a3;
+    color: #342e1f;
 }
 
 .faculdade-instituiçao {
-    color: #a3a3a3;
+    color: #342e1f;
 }
 
 .formacao-itens li p {
@@ -110,12 +111,12 @@
 }
 
 .formacao-curso span, .formacao-idioma span {
-    color: #a3a3a3;
+    color: #181614;
 }
 
 .formacao-curso h3 {
     position: relative;
-    color: #8f8f8f;
+    color: #201e1a;
     font-size: 0.9rem;
     text-transform: uppercase;
     margin-bottom: 1rem;
@@ -144,12 +145,12 @@
 }
 
 .carga-horaria {
-    color: #a3a3a3;
+    color: #201e1a;
 }
 
 .formacao-idioma h3 {
     position: relative;
-    color: #a3a3a3;
+    color: #201e1a;
     font-size: 0.9rem;
     text-transform: uppercase;
     margin-bottom: 1rem;
@@ -180,7 +181,7 @@
     .formaçao-titulo {
         font-size: 3rem;
         text-transform: capitalize;
-        color: #ffffff;
+        color: #eeeed3;
         padding: 0;
         word-break: normal;
     }
